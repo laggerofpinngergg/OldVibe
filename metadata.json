@@ -1,0 +1,6 @@
+{
+  "name": "OLDVIBES TYPE SYSTEM",
+  "description": "Интерактивный справочник и калькулятор системы типов урона и защиты для игроков OLDVIBES (/ovtypes table). Таблица множителей, типы брони, оружие и артефакты.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
